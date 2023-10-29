@@ -1,0 +1,6 @@
+admin, Luffy@gmail.com, onepiece, @Pirate_king
+user, Goku@gmail.com, dragon, @Strongest_Man
+user, Naruto@gmail.com, konoha, @Hokage
+admin, Roronoa@gmail.com, santorio, @Baka_Marimo
+user, Asta@gmail.com, bakasta, @Wizard_king
+user, Tanziro@gmail.com, gonpachiro, @Hashira
